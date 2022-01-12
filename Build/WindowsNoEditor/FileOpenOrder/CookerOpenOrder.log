@@ -1,320 +1,458 @@
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/FirstPersonCrosshair.uasset" 0
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/FirstPersonHUD.uasset" 1
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/PlayerRun_PhysicsAsset.uasset" 2
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/PlayerRun_Skeleton.uasset" 3
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Ch36_1001_Specular.uasset" 4
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Ch36_1001_Normal.uasset" 5
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Ch36_1001_Glossiness.uasset" 6
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Ch36_1001_Diffuse.uasset" 7
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/MatPlayer.uasset" 8
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/PlayerRun.uasset" 9
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 10
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 11
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Hook.uasset" 12
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Hook_Montage.uasset" 13
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Mutant_Jump_Attack_loop1.uasset" 14
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Mutant_Jump_Attack_loop.uasset" 15
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Mutant_Jump_Loop_Composite.uasset" 16
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Walk_Back.uasset" 17
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Run_Back.uasset" 18
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Right_Strafe_Walk.uasset" 19
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Right_Strafe.uasset" 20
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_PlayerRun.uasset" 21
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_PlayerIdle.uasset" 22
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Left_Strafe_Walk.uasset" 23
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Left_Strafe.uasset" 24
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/BSP_Player.uasset" 25
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Mutant_Jump_Attack_start.uasset" 26
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Mutant_Jump_Attack_landing.uasset" 27
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Falling_Idle_mixamo_com.uasset" 28
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 29
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/AnimBP_Player.uasset" 30
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Widget_HPBar.uasset" 31
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/rage_image_color_corrected.uasset" 32
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Widget_death.uasset" 33
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/BPIDamagable.uasset" 34
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/FirstPersonCharacter.uasset" 35
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/FirstPersonGameMode.uasset" 36
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/Blueprints/FirstPersonGameMode.uasset" 37
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 38
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 39
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 40
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 41
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 42
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 43
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 44
-"../../../Engine/Content/BasicShapes/Cone.uasset" 45
-"../../../Engine/Content/BasicShapes/Cube.uasset" 46
-"../../../Engine/Content/BasicShapes/Plane.uasset" 47
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 48
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 49
-"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 50
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 51
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 52
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 53
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 54
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 55
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 56
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 57
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 58
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 59
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 60
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 61
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 62
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 63
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 64
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 65
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 66
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 67
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 68
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 69
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 70
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 71
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 72
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 73
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 74
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 75
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 76
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 77
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 78
-"../../../Engine/Content/EditorResources/S_Note.uasset" 79
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 80
-"../../../Engine/Content/EditorResources/S_Terrain.uasset" 81
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 82
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 83
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 84
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 85
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 86
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 87
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 88
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 89
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 90
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 91
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 92
-"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 93
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 94
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 95
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 96
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 97
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 98
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 99
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 100
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 101
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 102
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 103
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 104
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 105
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 106
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 107
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 108
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 109
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 110
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 111
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 112
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 113
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 114
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 115
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 116
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 117
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 118
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 119
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 120
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 121
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 122
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 123
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 124
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 125
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 126
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 127
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 128
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 129
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 130
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 131
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 132
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 133
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 134
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 135
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 136
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 137
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 138
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 139
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 140
-"../../../Engine/Content/EngineResources/Black.uasset" 141
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 142
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 143
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 144
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 145
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 146
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 147
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 148
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 149
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 150
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 151
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 152
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 153
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 154
-"../../../Engine/Content/EngineSounds/Master.uasset" 155
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 156
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 157
-"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 158
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 159
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 160
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 161
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 162
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 163
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 164
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 165
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 166
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 167
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 168
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 169
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 170
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 171
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 172
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 173
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 174
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 175
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 176
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 177
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 178
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 179
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 180
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 181
-"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 182
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/CameraActor_64x.uasset" 183
-"../../../Engine/Content/Tutorial/Basics/ViewportsTutorial.uasset" 184
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 185
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 186
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 187
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 188
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 189
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 190
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 191
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 192
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 193
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 194
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 195
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 196
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 197
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 198
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 199
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 200
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 201
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 202
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 203
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 204
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 205
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 206
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 207
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 208
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 209
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 210
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 211
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 212
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 213
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 214
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 215
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 216
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 217
-"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 218
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 219
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 220
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 221
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 222
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 223
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Enviroment/2k/2kRockBalconyB_BaseColor.uasset" 224
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Enviroment/2k/2kRockBalconyA_BaseColor.uasset" 225
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/MatCaveParent.uasset" 226
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/2KCaveBalconyB.uasset" 227
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_OverHangs_153.uasset" 228
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/2KCaveBalconyA.uasset" 229
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_OverHangs_143.uasset" 230
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Enviroment/4k/RockBlockB_BaseColor.uasset" 231
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/4K/4KCaveBlockB.uasset" 232
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_Cube_137.uasset" 233
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Enviroment/4k/RockPlate_BaseColor.uasset" 234
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/4K/4KCavePlate.uasset" 235
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_CoverRocks_181.uasset" 236
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Enviroment/8k/8kRocks_+_coloumbs_BaseColor.uasset" 237
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/8K/8KCaveRocks+colombs.uasset" 238
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_159.uasset" 239
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Lvl_1_BuiltData.uasset" 240
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_115.uasset" 241
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_113.uasset" 242
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Enviroment/8k/8kRockPlate_BaseColor.uasset" 243
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/8K/8KCavePlate.uasset" 244
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_CoverRocks_186.uasset" 245
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_CoverRocks_184.uasset" 246
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_CoverRocks_183.uasset" 247
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Lerp_3Color.uasset" 248
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/MatRandomColor.uasset" 249
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_098.uasset" 250
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_097.uasset" 251
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_095.uasset" 252
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_093.uasset" 253
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_092.uasset" 254
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_091.uasset" 255
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_090.uasset" 256
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_089.uasset" 257
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_088.uasset" 258
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Enviroment/2k/2kRockPlate_BaseColor.uasset" 259
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/2KCavePlate.uasset" 260
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_CoverRocks_181.uasset" 261
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/NewLevelSequence.uasset" 0
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/BPIDamagable.uasset" 1
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/PlayerRun_Skeleton.uasset" 2
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 3
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 4
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Walk_Back.uasset" 5
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Run_Back.uasset" 6
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Right_Strafe_Walk.uasset" 7
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Right_Strafe.uasset" 8
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_PlayerRun.uasset" 9
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_PlayerIdle.uasset" 10
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Left_Strafe_Walk.uasset" 11
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Left_Strafe.uasset" 12
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/BSP_Player.uasset" 13
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Mutant_Jump_Attack_start.uasset" 14
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Falling_Idle_mixamo_com.uasset" 15
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Mutant_Jump_Attack_landing.uasset" 16
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 17
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Mutant_Jump_Attack_loop1.uasset" 18
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Mutant_Jump_Attack_loop.uasset" 19
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Mutant_Jump_Loop_Composite.uasset" 20
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/AnimBP_Player.uasset" 21
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Hook.uasset" 22
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Hook_Montage.uasset" 23
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/rage_image_color_corrected.uasset" 24
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Widget_death.uasset" 25
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Widget_HPBar.uasset" 26
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/PlayerRun_PhysicsAsset.uasset" 27
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Ch36_1001_Specular.uasset" 28
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Ch36_1001_Normal.uasset" 29
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Ch36_1001_Glossiness.uasset" 30
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Ch36_1001_Diffuse.uasset" 31
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/MatPlayer.uasset" 32
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/PlayerRun.uasset" 33
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/FirstPersonCharacter.uasset" 34
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/FirstPersonCrosshair.uasset" 35
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/FirstPersonHUD.uasset" 36
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/FirstPersonGameMode.uasset" 37
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/Blueprints/FirstPersonGameMode.uasset" 38
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 39
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 40
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 41
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 42
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 43
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 44
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 45
+"../../../Engine/Content/BasicShapes/Cone.uasset" 46
+"../../../Engine/Content/BasicShapes/Cube.uasset" 47
+"../../../Engine/Content/BasicShapes/Plane.uasset" 48
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 49
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 50
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 51
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 52
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 53
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 54
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 55
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 56
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 57
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 58
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 59
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 60
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 61
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 62
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 63
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 64
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 65
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 66
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 67
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 68
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 69
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 70
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 71
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 72
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 73
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 74
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 75
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 76
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 77
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 78
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 79
+"../../../Engine/Content/EditorResources/S_Note.uasset" 80
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 81
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 82
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 83
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 84
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 85
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 86
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 87
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 88
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 89
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 90
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 91
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 92
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 93
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 94
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 95
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 96
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 97
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 98
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 99
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 100
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 101
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 102
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 103
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 104
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 105
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 106
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 107
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 108
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 109
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 110
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 111
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 112
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 113
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 114
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 115
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 116
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 117
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 118
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 119
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 120
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 121
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 122
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 123
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 124
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 125
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 126
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 127
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 128
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 129
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 130
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 131
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 132
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 133
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 134
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 135
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 136
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 137
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 138
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 139
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 140
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 141
+"../../../Engine/Content/EngineResources/Black.uasset" 142
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 143
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 144
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 145
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 146
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 147
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 148
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 149
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 150
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 151
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 152
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 153
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 154
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 155
+"../../../Engine/Content/EngineSounds/Master.uasset" 156
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 157
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 158
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 159
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 160
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 161
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 162
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 163
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 164
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 165
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 166
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 167
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 168
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 169
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 170
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 171
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 172
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 173
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 174
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 175
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 176
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 177
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 178
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 179
+"../../../Engine/Content/EngineFonts/Faces/DroidSansMono.uasset" 180
+"../../../Engine/Content/EngineFonts/DroidSansMono.uasset" 181
+"../../../Engine/Content/Sequencer/DefaultBurnInOptions.uasset" 182
+"../../../Engine/Content/Sequencer/DefaultBurnIn.uasset" 183
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 184
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 185
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 186
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 187
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/CameraActor_64x.uasset" 188
+"../../../Engine/Content/Tutorial/Basics/ViewportsTutorial.uasset" 189
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 190
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 191
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 192
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 193
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 194
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 195
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 196
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 197
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 198
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 199
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 200
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 201
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 202
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 203
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 204
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 205
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 206
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 207
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 208
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 209
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 210
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 211
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 212
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 213
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 214
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 215
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 216
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 217
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 218
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 219
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 220
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 221
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 222
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 223
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 224
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 225
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 226
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 227
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 228
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Enviroment/8kRocks_+_coloumbs_BaseColor.uasset" 229
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Enviroment/8kRockBalconyA_BaseColor.uasset" 230
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/MatCaveParent.uasset" 231
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/8K/8KCaveRocks+colombs.uasset" 232
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_162.uasset" 233
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Enviroment/8kStraight_Supports_BaseColor.uasset" 234
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/8K/8KCaveSupports.uasset" 235
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_130.uasset" 236
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_124.uasset" 237
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_123.uasset" 238
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_122.uasset" 239
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_121.uasset" 240
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_120.uasset" 241
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_117.uasset" 242
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_114.uasset" 243
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_111.uasset" 244
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_110.uasset" 245
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_109.uasset" 246
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_107.uasset" 247
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_103.uasset" 248
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_101.uasset" 249
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_099.uasset" 250
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Enviroment/8kRockPlate_BaseColor.uasset" 251
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/8K/8KCavePlate.uasset" 252
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_CoverRocks_186.uasset" 253
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_CoverRocks_185.uasset" 254
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_CoverRocks_184.uasset" 255
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_CoverRocks_183.uasset" 256
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_CoverRocks_182.uasset" 257
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_CoverRocks_181.uasset" 258
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_CoverRocks_180.uasset" 259
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_CoverRocks_179.uasset" 260
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_CoverRocks_178.uasset" 261
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_CoverRocks_177.uasset" 262
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/KillBox.uasset" 263
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/EQSTestPawn.uasset" 264
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/PlayerContext.uasset" 265
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/FindPlayer.uasset" 266
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_096.uasset" 267
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Enviroment/2k/2kRockModular_BaseColor.uasset" 268
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/2KCaveModular.uasset" 269
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_RockModular_087.uasset" 270
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_RockModular_082.uasset" 271
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Enviroment/2k/2kRockBlockB_BaseColor.uasset" 272
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/2KCaveBlockB.uasset" 273
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_141.uasset" 274
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_137.uasset" 275
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Enviroment/2k/2kStraight_Supports_BaseColor.uasset" 276
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/2KCaveSupports.uasset" 277
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_122.uasset" 278
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Enviroment/2k/2kRocks_+_coloumbs_BaseColor.uasset" 279
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/2KCaveRocks+colombs.uasset" 280
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_120.uasset" 281
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_118.uasset" 282
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_111.uasset" 283
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/CheckPointBP.uasset" 284
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/EnemySpecular.uasset" 285
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/EnemyNormals.uasset" 286
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/EnemyBaseColor.uasset" 287
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/EnemyAlphaTex.uasset" 288
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/MatEnemy.uasset" 289
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/PhysicsAsset_EnemyRun.uasset" 290
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/Skeleton_EnemyRun.uasset" 291
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/SkeletalMesh_EnemyRun.uasset" 292
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Enemy_BB.uasset" 293
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/BTT_EnShoot.uasset" 294
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/BTT_Turn.uasset" 295
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/BTT_EnFocusStop.uasset" 296
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/BTT_EnFocus.uasset" 297
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/BTTask_RunAway.uasset" 298
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/BTTask_EnShootStop.uasset" 299
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Enemy_BT.uasset" 300
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Enemy_AI.uasset" 301
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/Anim_EnemyTurn.uasset" 302
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/EnemyTurn.uasset" 303
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/Anim_EnemyRun.uasset" 304
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/EnemyRun.uasset" 305
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/Anim_EnemyShooot.uasset" 306
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/EnemyFiring.uasset" 307
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/Anim_EnemyAimingIdle.uasset" 308
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/Anim_AimRun.uasset" 309
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/Anim_AimBackStart.uasset" 310
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/BSP_Enemy.uasset" 311
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/AnimBP_Enemy.uasset" 312
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/StarterContent/Materials/M_Basic_Wall.uasset" 313
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/StarterContent/Shapes/Shape_Sphere.uasset" 314
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Bullets.uasset" 315
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Enemy.uasset" 316
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Lvl_1.umap" 317
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 318
-"../../../Engine/Content/Maps/Entry.umap" 319
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Enviroment/8kRockModular_BaseColor.uasset" 263
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/4K/4KCaveModular.uasset" 264
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_RockModular_087.uasset" 265
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_RockModular_086.uasset" 266
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_RockModular_085.uasset" 267
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_RockModular_084.uasset" 268
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/4K/4KCaveRocks+colombs.uasset" 269
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_Cube_162.uasset" 270
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_Cube_161.uasset" 271
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_Cube_157.uasset" 272
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_Cube_156.uasset" 273
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_Cube_155.uasset" 274
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/4K/4KCaveSupports.uasset" 275
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_Cube_130.uasset" 276
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Lvl_1_BuiltData.uasset" 277
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Lerp_3Color.uasset" 278
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/MatRandomColor.uasset" 279
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_098.uasset" 280
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Foliage/Rock_all_to_Unreal_Cube_098_FoliageType.uasset" 281
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_097.uasset" 282
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Foliage/Rock_all_to_Unreal_Cube_097_FoliageType.uasset" 283
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_096.uasset" 284
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Foliage/Rock_all_to_Unreal_Cube_096_FoliageType.uasset" 285
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_095.uasset" 286
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Foliage/Rock_all_to_Unreal_Cube_095_FoliageType.uasset" 287
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_093.uasset" 288
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Foliage/Rock_all_to_Unreal_Cube_093_FoliageType.uasset" 289
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_092.uasset" 290
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Foliage/Rock_all_to_Unreal_Cube_092_FoliageType.uasset" 291
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_091.uasset" 292
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Foliage/Rock_all_to_Unreal_Cube_091_FoliageType.uasset" 293
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_090.uasset" 294
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Foliage/Rock_all_to_Unreal_Cube_090_FoliageType.uasset" 295
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_089.uasset" 296
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Foliage/Rock_all_to_Unreal_Cube_089_FoliageType.uasset" 297
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Rock_all_to_Unreal_Cube_088.uasset" 298
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Foliage/Rock_all_to_Unreal_Cube_088_FoliageType.uasset" 299
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_Cube_128.uasset" 300
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_Cube_120.uasset" 301
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_Cube_115.uasset" 302
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_Cube_109.uasset" 303
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/2K/2KCaveRocks+colombs.uasset" 304
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_107.uasset" 305
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_106.uasset" 306
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_104.uasset" 307
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_103.uasset" 308
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_100.uasset" 309
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_099.uasset" 310
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/2K/2KCavePlate.uasset" 311
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_CoverRocks_186.uasset" 312
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_CoverRocks_185.uasset" 313
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_CoverRocks_184.uasset" 314
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_CoverRocks_183.uasset" 315
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_CoverRocks_181.uasset" 316
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_CoverRocks_180.uasset" 317
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_CoverRocks_179.uasset" 318
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_CoverRocks_178.uasset" 319
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_CoverRocks_177.uasset" 320
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/1K/1KCaveModular.uasset" 321
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_RockModular_087.uasset" 322
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_RockModular_086.uasset" 323
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_RockModular_085.uasset" 324
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_RockModular_084.uasset" 325
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_RockModular_082.uasset" 326
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_RockModular_081.uasset" 327
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_RockModular_080.uasset" 328
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_RockModular_079.uasset" 329
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_RockModular_078.uasset" 330
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_RockModular_077.uasset" 331
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/1K/1KCaveBalconyA.uasset" 332
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_OverHangs_144.uasset" 333
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/1K/1KCaveRocks+colombs.uasset" 334
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_Cube_164.uasset" 335
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_Cube_163.uasset" 336
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_Cube_161.uasset" 337
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_Cube_160.uasset" 338
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_Cube_159.uasset" 339
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_Cube_158.uasset" 340
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_Cube_157.uasset" 341
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_Cube_155.uasset" 342
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Enviroment/8kRockBlockA_BaseColor.uasset" 343
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/1K/1KCaveBlockA.uasset" 344
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_Cube_135.uasset" 345
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_Cube_132.uasset" 346
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_Cube_106.uasset" 347
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_Cube_104.uasset" 348
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_Cube_101.uasset" 349
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_Cube_100.uasset" 350
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_Cube_099.uasset" 351
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/4K/4KCavePlate.uasset" 352
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_CoverRocks_186.uasset" 353
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_CoverRocks_185.uasset" 354
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_CoverRocks_184.uasset" 355
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_CoverRocks_181.uasset" 356
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_CoverRocks_180.uasset" 357
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_CoverRocks_179.uasset" 358
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_CoverRocks_178.uasset" 359
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/4k/Rock_all_to_Unreal_CoverRocks_177.uasset" 360
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/2K/2KCaveModular.uasset" 361
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_RockModular_082.uasset" 362
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_RockModular_078.uasset" 363
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Enviroment/8kRockBalconyB_BaseColor.uasset" 364
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/2K/2KCaveBalconyB.uasset" 365
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_OverHangs_152.uasset" 366
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_OverHangs_151.uasset" 367
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_OverHangs_150.uasset" 368
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/2K/2KCaveBalconyA.uasset" 369
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_OverHangs_147.uasset" 370
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_OverHangs_145.uasset" 371
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_OverHangs_144.uasset" 372
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_OverHangs_143.uasset" 373
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_164.uasset" 374
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_162.uasset" 375
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_161.uasset" 376
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_160.uasset" 377
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_159.uasset" 378
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_157.uasset" 379
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_155.uasset" 380
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/2K/2KCaveBlockA.uasset" 381
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_135.uasset" 382
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_133.uasset" 383
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/2K/2KCaveSupports.uasset" 384
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_131.uasset" 385
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_130.uasset" 386
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_129.uasset" 387
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_128.uasset" 388
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_126.uasset" 389
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_122.uasset" 390
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/2k/Rock_all_to_Unreal_Cube_121.uasset" 391
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/1K/1KCaveSupports.uasset" 392
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_Cube_129.uasset" 393
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_Cube_120.uasset" 394
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_Cube_119.uasset" 395
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_Cube_118.uasset" 396
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_Cube_115.uasset" 397
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_Cube_112.uasset" 398
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_Cube_111.uasset" 399
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_Cube_104.uasset" 400
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/1K/1KCavePlate.uasset" 401
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_CoverRocks_185.uasset" 402
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_CoverRocks_181.uasset" 403
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_CoverRocks_179.uasset" 404
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/1k/Rock_all_to_Unreal_CoverRocks_177.uasset" 405
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Floor/painterly_cave_floor_normal.uasset" 406
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Floor/painterly_cave_floor_height.uasset" 407
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Floor/painterly_cave_floor_basecolor.uasset" 408
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/Floor/painterly_cave_floor_ambientocclusion.uasset" 409
+"../../../Engine/Content/EngineMaterials/DefaultNormal_Uncompressed.uasset" 410
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 411
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 412
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 413
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 414
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldAlignedNormals_HighQuality.uasset" 415
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 416
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedNormal.uasset" 417
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/MatPavement.uasset" 418
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/plane.uasset" 419
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/CheckPointBP.uasset" 420
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/EQSTestPawn.uasset" 421
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/EnemySpecular.uasset" 422
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/EnemyNormals.uasset" 423
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/EnemyBaseColor.uasset" 424
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/Textures/EnemyAlphaTex.uasset" 425
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Materials/MatEnemy.uasset" 426
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/PhysicsAsset_EnemyRun.uasset" 427
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/Skeleton_EnemyRun.uasset" 428
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/SkeletalMesh_EnemyRun.uasset" 429
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/BTT_EnShoot.uasset" 430
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/BTT_Turn.uasset" 431
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/BTT_EnFocusStop.uasset" 432
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/BTT_EnFocus.uasset" 433
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/BTTask_RunAway.uasset" 434
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/BTTask_EnShootStop.uasset" 435
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/PlayerContext.uasset" 436
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/FindPlayer.uasset" 437
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Enemy_BB.uasset" 438
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Enemy_BT.uasset" 439
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Enemy_AI.uasset" 440
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/Anim_EnemyTurn.uasset" 441
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/EnemyTurn.uasset" 442
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/Anim_EnemyRun.uasset" 443
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/EnemyRun.uasset" 444
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/Anim_EnemyShooot.uasset" 445
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/EnemyFiring.uasset" 446
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/Anim_EnemyAimingIdle.uasset" 447
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/Anim_AimRun.uasset" 448
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/Anim_AimBackStart.uasset" 449
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/BSP_Enemy.uasset" 450
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/AnimBP_Enemy.uasset" 451
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/StarterContent/Materials/M_Basic_Wall.uasset" 452
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/StarterContent/Shapes/Shape_Sphere.uasset" 453
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Bullets.uasset" 454
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Enemy.uasset" 455
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/KillBox.uasset" 456
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Lvl_1.umap" 457
