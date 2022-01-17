@@ -1,7 +1,7 @@
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/NewLevelSequence.uasset" 0
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/FirstPersonCrosshair.uasset" 1
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/FirstPersonHUD.uasset" 2
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 3
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Mat_collectible.uasset" 1
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/MagicRoks/Rock_all_to_Unreal_Cube_089.uasset" 2
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/MagicRoks/Rock_all_to_Unreal_Cube_095.uasset" 3
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/EnemySpecular.uasset" 4
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/EnemyNormals.uasset" 5
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/EnemyBaseColor.uasset" 6
@@ -10,56 +10,56 @@
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/PhysicsAsset_EnemyRun.uasset" 9
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/Skeleton_EnemyRun.uasset" 10
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/SkeletalMesh_EnemyRun.uasset" 11
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Mat_collectible.uasset" 12
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/MagicRoks/Rock_all_to_Unreal_Cube_095.uasset" 13
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enemy/MagicRoks/Rock_all_to_Unreal_Cube_089.uasset" 14
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/PlayerRun_PhysicsAsset.uasset" 15
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/PlayerRun_Skeleton.uasset" 16
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/Ch36_1001_Specular.uasset" 17
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/Ch36_1001_Normal.uasset" 18
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/Ch36_1001_Glossiness.uasset" 19
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/Ch36_1001_Diffuse.uasset" 20
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/MatPlayer.uasset" 21
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/PlayerRun.uasset" 22
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 23
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 24
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Hook.uasset" 25
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Hook_Montage.uasset" 26
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Mutant_Jump_Attack_loop1.uasset" 27
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Mutant_Jump_Attack_loop.uasset" 28
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Mutant_Jump_Loop_Composite.uasset" 29
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Treading_Water_mixamo_com.uasset" 30
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Swimming_mixamo_com.uasset" 31
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/BSP_Player_swim.uasset" 32
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Walk_Back.uasset" 33
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Run_Back.uasset" 34
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Right_Strafe_Walk.uasset" 35
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Right_Strafe.uasset" 36
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_PlayerRun.uasset" 37
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_PlayerIdle.uasset" 38
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Left_Strafe_Walk.uasset" 39
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Left_Strafe.uasset" 40
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/BSP_Player.uasset" 41
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Mutant_Jump_Attack_start.uasset" 42
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Mutant_Jump_Attack_landing.uasset" 43
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Falling_Idle_mixamo_com.uasset" 44
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/AnimBP_Player.uasset" 45
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/openingScreen.uasset" 46
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/rage_image_color_corrected.uasset" 47
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Widget_Opening.uasset" 48
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/second_screen.uasset" 49
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Widget_lvl2.uasset" 50
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Widget_HPBar.uasset" 51
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Endscreen.uasset" 52
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Widget_end.uasset" 53
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Widget_death.uasset" 54
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/BPIDamagable.uasset" 55
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/SFX/scream_3.uasset" 56
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/SFX/scream_2.uasset" 57
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/SFX/scream_1.uasset" 58
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/SFX/ScreamRandom.uasset" 59
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/FirstPersonCharacter.uasset" 60
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/EnemyCollectible.uasset" 61
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/PlayerRun_PhysicsAsset.uasset" 12
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/PlayerRun_Skeleton.uasset" 13
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/Ch36_1001_Specular.uasset" 14
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/Ch36_1001_Normal.uasset" 15
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/Ch36_1001_Glossiness.uasset" 16
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/Ch36_1001_Diffuse.uasset" 17
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/MatPlayer.uasset" 18
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/PlayerRun.uasset" 19
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 20
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 21
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Hook.uasset" 22
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Hook_Montage.uasset" 23
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Mutant_Jump_Attack_loop1.uasset" 24
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Mutant_Jump_Attack_loop.uasset" 25
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Mutant_Jump_Loop_Composite.uasset" 26
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Treading_Water_mixamo_com.uasset" 27
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Swimming_mixamo_com.uasset" 28
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/BSP_Player_swim.uasset" 29
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Walk_Back.uasset" 30
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Run_Back.uasset" 31
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Right_Strafe_Walk.uasset" 32
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Right_Strafe.uasset" 33
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_PlayerRun.uasset" 34
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_PlayerIdle.uasset" 35
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Left_Strafe_Walk.uasset" 36
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Anim_Left_Strafe.uasset" 37
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/BSP_Player.uasset" 38
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Mutant_Jump_Attack_start.uasset" 39
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Mutant_Jump_Attack_landing.uasset" 40
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/Falling_Idle_mixamo_com.uasset" 41
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 42
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Player/AnimBP_Player.uasset" 43
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/rage_image_color_corrected.uasset" 44
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/openingScreen.uasset" 45
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Widget_Opening.uasset" 46
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/second_screen.uasset" 47
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Widget_lvl2.uasset" 48
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Widget_HPBar.uasset" 49
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Endscreen.uasset" 50
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Widget_end.uasset" 51
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Widget_death.uasset" 52
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/BPIDamagable.uasset" 53
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/SFX/scream_3.uasset" 54
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/SFX/scream_2.uasset" 55
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/SFX/scream_1.uasset" 56
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/SFX/ScreamRandom.uasset" 57
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/FirstPersonCharacter.uasset" 58
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/EnemyCollectible.uasset" 59
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/FirstPersonCrosshair.uasset" 60
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/FirstPersonHUD.uasset" 61
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/FirstPersonGameMode.uasset" 62
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/Blueprints/FirstPersonGameMode.uasset" 63
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 64
@@ -312,22 +312,22 @@
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Enemy.uasset" 311
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/EQSTestPawn.uasset" 312
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/CheckPointBP.uasset" 313
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/Floor/painterly_cave_floor_basecolor.uasset" 314
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/Floor/painterly_cave_floor_ambientocclusion.uasset" 315
-"../../../Engine/Content/EngineMaterials/DefaultNormal_Uncompressed.uasset" 316
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 317
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 318
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 319
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 320
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldAlignedNormals_HighQuality.uasset" 321
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 322
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedNormal.uasset" 323
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/Floor/painterly_cave_floor_normal.uasset" 324
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/Floor/painterly_cave_floor_height.uasset" 325
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/MatPavement.uasset" 326
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/plane.uasset" 327
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Lvl_1_BuiltData.uasset" 328
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/LoadLvl2.uasset" 329
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Lvl_1_BuiltData.uasset" 314
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/LoadLvl2.uasset" 315
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/Floor/painterly_cave_floor_normal.uasset" 316
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/Floor/painterly_cave_floor_height.uasset" 317
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/Floor/painterly_cave_floor_basecolor.uasset" 318
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/Textures/Floor/painterly_cave_floor_ambientocclusion.uasset" 319
+"../../../Engine/Content/EngineMaterials/DefaultNormal_Uncompressed.uasset" 320
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 321
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 322
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 323
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 324
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldAlignedNormals_HighQuality.uasset" 325
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 326
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedNormal.uasset" 327
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Materials/MatPavement.uasset" 328
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/plane.uasset" 329
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/Angry/The_Reflection_by_Sinyells_-_LZtvE__Old_Version_.uasset" 330
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/Angry/The_Animal_Inside__Instrumental__by_Sinyells_-_LZtvE__Old_Version_.uasset" 331
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/Angry/Monster_Fight_by_Sinyells_-_LZtvE.uasset" 332
@@ -649,22 +649,22 @@
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Foliage/Rock_all_to_Unreal_Cube_096_FoliageType.uasset" 648
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/Foliage/Rock_all_to_Unreal_Cube_095_FoliageType.uasset" 649
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Lvl_1.umap" 650
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Lvl_2_BuiltData.uasset" 651
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/QuitGame.uasset" 652
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_112.uasset" 653
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/SFX/heavystonemoving.uasset" 654
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/SFX/stonemove.uasset" 655
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Mesh+Anim/Enviroment/8k/Rock_all_to_Unreal_Cube_112.uasset" 651
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/SFX/heavystonemoving.uasset" 652
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/SFX/stonemove.uasset" 653
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Doorways.uasset" 654
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/QuitGame.uasset" 655
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Doorways4.uasset" 656
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Doorways3.uasset" 657
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Doorways2.uasset" 658
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Doorways1.uasset" 659
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Blueprints/Doorways.uasset" 660
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/Sad/Sappheiros_-_Passion.uasset" 661
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/Sad/Sappheiros_-_Memories.uasset" 662
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/Sad/Sappheiros_-_Escape.uasset" 663
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/Sad/_ONTIVA_COM__Yiddish_Sadness_-_Doug_Maxwell-HQ.uasset" 664
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/Sad/Josh_Lippi___The_Overtimers_-_St__Francis.uasset" 665
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/Sad/General_Vibe_-_We_Hear_Them_Talking.uasset" 666
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/Sad/Artegon_-_Beyond_The_Lights.uasset" 667
-"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/Sad/SadSoundtrack.uasset" 668
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/Sad/Sappheiros_-_Passion.uasset" 660
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/Sad/Sappheiros_-_Memories.uasset" 661
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/Sad/Sappheiros_-_Escape.uasset" 662
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/Sad/_ONTIVA_COM__Yiddish_Sadness_-_Doug_Maxwell-HQ.uasset" 663
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/Sad/Josh_Lippi___The_Overtimers_-_St__Francis.uasset" 664
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/Sad/General_Vibe_-_We_Hear_Them_Talking.uasset" 665
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/Sad/Artegon_-_Beyond_The_Lights.uasset" 666
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Audio/Sad/SadSoundtrack.uasset" 667
+"../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Lvl_2_BuiltData.uasset" 668
 "../../../../../OneDrive - Abertay University/205 (level design)/RageAndMercy/Content/AAMyStuff/Lvl_2.umap" 669
